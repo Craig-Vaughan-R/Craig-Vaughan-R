@@ -10,7 +10,6 @@
 A recent Business Management Graduate and former Marketing Executive with a newfound passion for Data Analytics. After realizing my interest in the field, I embarked on a journey to further enhance my skills and knowledge. Now, I'm excited to apply my diverse background and newfound expertise to solve real-world problems through data analysis. Stay tuned for my future projects. 🚀
 
 * 🌍  Based in the United Kingdom.
-* ✉️  Contact me at [craig.ragavaloo@outlook.com](mailto:craig.ragavaloo@outlook.com).
 * 🧠  I'm currently learning Python.
 
 ### Skills
