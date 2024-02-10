@@ -7,10 +7,10 @@
 <h2 align="center">...a Data Analyst</h2>
 
 ### About Me
-A Business Management Graduate and former Marketing Executive with a newfound passion for Data Analytics. After realizing my interest in the data field, I embarked on a journey to further enhance my skills and knowledge. Now, I'm excited to apply my diverse background and newfound expertise to solve real-world problems through data analysis. 🚀
+A Business Management Graduate and former Marketing Executive with a newfound passion for Data Analytics. After realizing my interest in the data field, I embarked on a journey to further enhance my skills and knowledge through a 12-week intensive Data Analytics bootcamp, as well as through independent study. Now, I'm thrilled to utilize my diverse background and deepened expertise to tackle real-world challenges through data analysis. 
 
 * 🌍  Based in the United Kingdom.
-* 🧠  I'm currently learning Python.
+* 💻 I'm currently working on a project that entails Excel, SQL, and Tableau.
 
 ### Skills
 <p align="left">
