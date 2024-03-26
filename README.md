@@ -12,7 +12,8 @@ A Business Management Graduate and former Marketing Executive with a newfound pa
 * 🌍  Based in the United Kingdom.
 * 💻 Currently working on a project that entails Excel, SQL, and Tableau.
 
-### Skills
+### Key Skills
+***Technical***
 <p align="left">
     <ul>
        <li>Excel</li>
@@ -20,6 +21,18 @@ A Business Management Graduate and former Marketing Executive with a newfound pa
         <li>SQL</li>
         <li>Power BI</li>
         <li>Tableau</li>
+    </ul>
+</p>
+
+***Soft***
+
+<p align="left">
+    <ul>
+       <li>Attention to Detail</li>
+        <li>Team Collaboration</li>
+        <li>Problem-solving</li>
+        <li>Communication</li>
+        <li>Adaptability</li>
     </ul>
 </p>
 
