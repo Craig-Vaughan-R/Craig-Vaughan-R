@@ -28,7 +28,7 @@ A Business Management Graduate and former Marketing Executive with a newfound pa
 
 <p align="left">
     <ul>
-       <li>Attention to Detail</li>
+       <li>Time Management</li>
         <li>Team Collaboration</li>
         <li>Problem-solving</li>
         <li>Communication</li>
