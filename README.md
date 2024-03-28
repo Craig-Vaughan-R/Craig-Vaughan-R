@@ -20,7 +20,6 @@ A Business Management Graduate and former Marketing Executive with a newfound pa
         <li>Python</li>
         <li>SQL</li>
         <li>Power BI</li>
-        <li>Tableau</li>
     </ul>
 </p>
 
