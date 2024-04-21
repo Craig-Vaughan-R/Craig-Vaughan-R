@@ -12,29 +12,16 @@ A Business Management Graduate and former Marketing Executive with a newfound pa
 [My Portfolio](https://github.com/Craig-Vaughan-R/Craig-s-Portfolio)
 
 ### Key Skills
-***Technical***
 <p align="left">
     <ul>
-       <li>Excel</li>
-        <li>Python</li>
+       <li>Python</li>
         <li>SQL</li>
-        <li>Power BI</li>
+       <li>Microsoft Excel</li>
+        <li>Microsoft Power BI</li>
     </ul>
 </p>
 
-***Soft***
 
-<p align="left">
-    <ul>
-       <li>Time Management</li>
-        <li>Team Collaboration</li>
-        <li>Problem-solving</li>
-        <li>Communication</li>
-        <li>Adaptability</li>
-    </ul>
-</p>
-
-### Socials
 <p align="left">
     <a href="https://www.github.com/Craig-Vaughan-R" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/craig-vaughan-r/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
