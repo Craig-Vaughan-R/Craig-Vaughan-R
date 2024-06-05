@@ -11,7 +11,7 @@ A Business Management Graduate and former Marketing Executive with a newfound pa
 
 [Github Portfolio](https://github.com/Craig-Vaughan-R/Craig-s-Portfolio)
 
-### Key Skills
+### Technical Skills
 <p align="left">
     <ul>
        <li>Python</li>
