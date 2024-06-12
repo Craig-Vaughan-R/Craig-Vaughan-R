@@ -7,7 +7,7 @@
 <h2 align="center">...a Data Analyst</h2>
 
 ### About Me
-A Business Management Graduate and former Marketing Executive with a newfound passion for Data Analytics. After realizing my interest in the data field, I embarked on a journey to further enhance my skills and knowledge through a 12-week intensive Data Analytics bootcamp, as well as through independent study. Now, I'm thrilled to utilize my diverse background and deepened expertise to tackle real-world challenges through data analysis. 
+I'm a Business Management Graduate that discovered a passion for data during my tenure as a Marketing Executive . After realizing my interest in the data field, I embarked on a journey to further enhance my skills and knowledge through a 12-week intensive Data Analytics bootcamp, as well as through independent study. Now, I'm thrilled to utilize my diverse background and deepened expertise to tackle real-world challenges through data analysis. 
 
 
 ### Technical Skills
