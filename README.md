@@ -9,7 +9,6 @@
 ### About Me
 A Business Management Graduate and former Marketing Executive with a newfound passion for Data Analytics. After realizing my interest in the data field, I embarked on a journey to further enhance my skills and knowledge through a 12-week intensive Data Analytics bootcamp, as well as through independent study. Now, I'm thrilled to utilize my diverse background and deepened expertise to tackle real-world challenges through data analysis. 
 
-[Github Portfolio](https://github.com/Craig-Vaughan-R/Craig-s-Portfolio)
 
 ### Technical Skills
 <p align="left">
@@ -20,7 +19,7 @@ A Business Management Graduate and former Marketing Executive with a newfound pa
         <li>Microsoft Power BI</li>
     </ul>
 </p>
-
+[Github Portfolio](https://github.com/Craig-Vaughan-R/Craig-s-Portfolio)
 
 <p align="left">
     <a href="https://www.github.com/Craig-Vaughan-R" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
